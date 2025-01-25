@@ -8,5 +8,5 @@ export default defineConfig({
     exclude: ['lucide-react'],
     
   },
-  publicDir: "/adee-portfolio/",
+  base: "/adee-portfolio/",
 });
