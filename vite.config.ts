@@ -7,5 +7,6 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
     
-  }
+  },
+  publicDir: "/adee-portfolio/",
 });
